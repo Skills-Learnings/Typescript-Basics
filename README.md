@@ -1,9 +1,10 @@
-# Typescript Basics
-This repo contains the exercises and projects implementation from the [typescript simplified course](https://courses.webdevsimplified.com/view/courses/typescript-simplified)
 
-## Branch Structure
-1. The main branch contains the skeleton code of vite react app.
-2. For each section of course there are separate branches for exercises and projects implementation
+# Todo List project implementation
+This branch contains the **Todo List Project** [implementation](https://github.com/WebDevSimplified/TypeScript-Simplified/tree/main/todo-list/before) of **Real world typescript** section of [Typescript Simplified](https://courses.webdevsimplified.com/view/courses/typescript-simplified/2151220-real-world-typescript) course.
+
+Attached screenshot for reference
+
+![Attached screenshot for reference](https://raw.githubusercontent.com/Skills-Learnings/Typescript-Basics/todo-list-project/public/project-screenshot.jpg)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
